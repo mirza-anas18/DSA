@@ -8,6 +8,7 @@ This repository helps beginners strengthen **loops, nested loops, and logical th
 ## 📌 Patterns Included
 
 - Hollow Rectangle
+-half pyramid
 - Right-Angled Triangle
 - Inverted Right-Angled Triangle
 - Pyramid
@@ -20,6 +21,7 @@ This repository helps beginners strengthen **loops, nested loops, and logical th
 - Hourglass Pattern
 - Triangle of Alphabets (planned)
 - Other common star/number/alphabet patterns
+
 
 ---
 
