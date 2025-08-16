@@ -13,7 +13,8 @@ public class pattern1 {
                     System.out.print(" ");
                 }
             }
-            System.out.println(); // move to next line after every row
+            System.out.println(); 
         }
     }
 }
+
