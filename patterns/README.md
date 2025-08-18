@@ -24,10 +24,3 @@ This repository helps beginners strengthen **loops, nested loops, and logical th
 
 
 ---
-
-## 🚀 How to Run
-
-1. Open terminal/PowerShell in this folder.
-2. Compile the Java file you want to run:
-```bash
-javac pattern1.java
