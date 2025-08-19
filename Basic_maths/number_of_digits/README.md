@@ -1,18 +1,21 @@
-# 🧮 Basic Math Programs (Java) /-
+# 📘 Number of Digits Program (Java)
 
 ## 📌 Overview
-This repository contains **basic math programs** implemented in Java, 
-These are beginner-friendly problems that focus on strengthening **mathematical logic** and **number manipulation techniques**.
+This Java program calculates the **number of digits** in an integer.
 
 ---
 
-## 🗂️ Programs Included
-Some of the programs you’ll find here include:
+## ⚙️ Logic
+1. Start with an integer.  
+2. Initialize a counter to 0.  
+3. Repeatedly divide the number by 10 until it becomes 0.  
+4. Increment the counter each time to count the digits.  
+5. Print the total digit count.
 
-- ✅ Count the number of digits in a number  
-- ✅ Reverse a number  
-- ✅ Check if a number is palindrome  
-- ✅ Find GCD / HCF of two numbers  
-- ✅ Check if a number is prime  
-- ✅ Print all divisors of a number  
-- ✅ Armstrong number check  
+---
+
+## 💻 Example
+**Input:** `444`  
+**Output:** `Number of digits: 3`
+
+---
