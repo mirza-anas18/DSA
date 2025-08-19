@@ -6,10 +6,11 @@ public class numberofdigits{
         int count=0;
         
         while(n>0){
-            int lastdigit=n%10;
+            
             count=count+1;
             n=n/10;
         }
         System.out.println("Number of digits: "+count);
     }
 }
+
