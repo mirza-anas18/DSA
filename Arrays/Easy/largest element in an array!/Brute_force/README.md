@@ -18,7 +18,7 @@ It uses the built-in Java method `Arrays.sort()` to sort the entire array and th
 ## ⏱️ Complexity Analysis
 - **Time Complexity:** O(n log n)  
   (because sorting an array of length `n` takes `O(n log n)` using Dual-Pivot Quicksort in Java).  
-- **Space Complexity:** O(1)  
+- **Space Complexity:** O(n)  
   (since sorting happens in-place for primitive arrays in Java).
 
 ---
