@@ -1,6 +1,6 @@
 # 🟢 Easy DSA Problems
 
-This folder contains solutions to **Easy-level** Data Structures & Algorithms problems.  
+This folder contains solutions to **Easy-level** arrays problems.  
 For each problem, I’ve added both **Brute Force** and **Optimal** approaches (wherever possible).
 
 
