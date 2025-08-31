@@ -38,3 +38,4 @@ public class brute {
         System.out.println("");
     }
 }
+
