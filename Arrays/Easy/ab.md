@@ -1,0 +1,1 @@
+today i have learned 2sum and prefix sum problem
