@@ -1,1 +1,0 @@
-so today i learned some medium problems of arrays
